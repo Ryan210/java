@@ -1,0 +1,17 @@
+1.JDK：调试、编译源文件，生成文档等，包含各种开发工具
+2.JRE：运行字节码文件，包含基础API和JVM
+3.JVM：Java虚拟机
+4.字节码文件运行在JVM中，字节码和虚拟机是实现Java一次编译，四处运行跨平台的关键。
+主要内容
+1，Java平台应用
+2，核心概念：JVM,JDK,JRE
+3,搭建Java开发环境
+4，使用工具开发java程序
+java 
+1995（Sun）---------2009ORACLE收购Sun
+基础核心 javaSE-----------javaEE（java的企业版）---------javaME（用于嵌入式开发）
+JVM（java virtual Machine）
+源文件 myProgram.java------>编译器 compiler------>字节码文件myProgram.class----->解释器interpreter---->my program
+想吃鱼---去买鱼----杀鱼的过程相当于编码器----给鱼烧熟这个过程属于解释器
+JDK：java开发工具包
+JRE：java运行时环境
