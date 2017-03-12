@@ -1,0 +1,12 @@
+扩展名：计算机->菜单工具->文件夹选项->查看->隐藏扩展名前的勾去掉即可。
+public class跟的名字必须与文件名相同。
+javac HelloWorld.java
+java HelloWorld java命令后不能跟文件后缀
+使用记事本编写Java程序
+1.新建记事本文件，重命名为HelloWorld.java（需要在记事本显示扩展名为.txt时重命名，否则重命名结果就会变成HelloWorld.java.txt）
+2.编写源文件，保存文件在磁盘根目录，便于编译，执行
+3.编译
+开始键搜索框输入cmd进入控制台，输入“X：回车”（X代表源代码文件保存的位置，如D或者D/Java等等）再输入“dir”可以查看源文件是否存在此于目录
+输入“javac HelloWorld.java回车”，没有错误的话，与源文件同目录下会生成一个名为“HelloWorld.class”的字节码文件，编译阶段完成。
+4.执行
+控制台输入“java HelloWorld回车”（切记没有.class后缀），结果显示“welcome to imooc ！”，执行成功
