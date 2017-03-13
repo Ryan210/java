@@ -1,0 +1,6 @@
+if (statement)当statment内判断字符串时，可以用name.equals("aaaa")来判断，==也行
+
+ switch 后面小括号中表达式的值必须是整型或字符型
+ 
+ default 块可以出现在任意位置，也可以省略
+
